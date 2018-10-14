@@ -8,4 +8,6 @@ Because I faced this problem while making [Meta Preview](https://twitter.com/dea
 
 ## Credits
 
-All the credits go to https://stackoverflow.com/a/38554505/6141587. I just tweaked a little to copy it to clipboard.
+All the credits go to https://stackoverflow.com/a/38554505/6141587
+
+I just tweaked a little to copy it to clipboard :)
